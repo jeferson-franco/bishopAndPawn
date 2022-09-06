@@ -1,0 +1,20 @@
+{
+  "name": "bishopandpawn",
+  "version": "1.0.0",
+  "description": "Given the positions of a white `bishop` and a black `pawn` on the standard chess board, determine whether the bishop can capture the pawn in one move.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/bishopAndPawn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/bishopAndPawn/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/bishopAndPawn#readme"
+}
